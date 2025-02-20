@@ -1,5 +1,15 @@
 #AIzaSyDI5Po0BIOY_0L5RA-vo2eKwI_K9C44SCY
+'''"I am truly overwhelmed by this recognition it's something I never expected, and I'm absolutely elated. NumpyNinja has been nothing short of a game-changer for me. It was the platform that gave me the confidence and tools to step back into the workforce with renewed energy and purpose.
 
+The NumpyNinja resume format was a revelation it transformed my resume, putting it in the spotlight and capturing the attention of recruiters like never before. The hands-on projects I worked on here not only honed my skills but also elevated my profile, opening doors to opportunities I once thought were out of reach.
+What's truly remarkable is how NumpyNinja stays unwavering in its noble mission of being the most career-centric company for women. Being part of this journey has been an honor, and I'm incredibly proud to have contributed to such a transformative community. I promise to continue supporting and championing this mission in any way I can, because NumpyNinja isn't just a platform-it's a movement that changes lives."
+
+                                    ------Nidhi A
+
+A NumpyNinja's success story: Landing a Product Manager role at one of the world's leading mobile service companies.
+Is this the moment that kickstarts your own inspiring journey?
+
+ Connect with us on Messenger - https://m.me/numpyninjainc'''
 async def countdown_timer(seconds):
     for remaining in range(seconds, 0, -1):
         sys.stdout.write(f"\r⏳ Sleeping... {remaining // 60} min {remaining % 60} sec left ")
