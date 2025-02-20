@@ -17,7 +17,7 @@ proxies = [
 
 # Define hardcoded credentials
 credentials = [
-    ('amadhanmohan007@gmail.com', 'amohan')
+    ('', '')
 ]
 
 # Initialize LLM
