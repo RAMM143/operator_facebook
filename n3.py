@@ -1,3 +1,14 @@
+#AIzaSyDI5Po0BIOY_0L5RA-vo2eKwI_K9C44SCY
+
+async def countdown_timer(seconds):
+    for remaining in range(seconds, 0, -1):
+        sys.stdout.write(f"\r⏳ Sleeping... {remaining // 60} min {remaining % 60} sec left ")
+        sys.stdout.flush()
+        await asyncio.sleep(1)
+    sys.stdout.write("\r⏳ Waking up! Ready to post the next message!          \n")
+
+await countdown_timer(3600)  # Sleep with countdown
+            print("🚀 Time to post the next message!\n\n")
 import asyncio
 import os
 import time
