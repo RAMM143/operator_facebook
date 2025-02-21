@@ -8,7 +8,42 @@ What's truly remarkable is how NumpyNinja stays unwavering in its noble mission 
 
 A NumpyNinja's success story: Landing a Product Manager role at one of the world's leading mobile service companies.
 Is this the moment that kickstarts your own inspiring journey?
+m1 = '''"Moving to the USA with a career gap left me feeling lost and unsure of my future. I lacked confidence and didn't know where to start. That's when my neighbor, a NumpyNinja member, introduced me to this incredible program -- and it changed everything.
 
+Through live projects, Jobathon, and hackathons, I gained real-world experience, industry skills, and the confidence to re-enter the workforce. The structured guidance made all the difference.
+
+Today, after a long break, I've successfully restarted my career-all thanks to NumpyNinja."
+
+                                       -----Shruthi C
+
+This is the success story of NumpyNinja who successfully overcame a career break through our program and secured a position at one of the largest dental insurance companies.
+If you're feeling stuck, take that first step. Success will follow!
+Connect with us on Messenger - https://m.me/numpyninjainc'''
+
+m2 = '''"Restarting my career after a 9-year gap seemed daunting, but NumpyNinja changed everything.
+
+The Jobathon at Numpy Ninja was a turning point—it gave me real-world experience, sharpened my technical skills, and boosted my confidence. The hands-on projects and interview-focused training played a crucial role in helping me secure a position in a top IT company.
+
+If you trust the process at NumpyNinja, the sky is the limit to what you can achieve!"
+                                     -----Anandhi K
+
+This is the success story of NumpyNinja who has excelled through our program and secured a position at a leading financial information and analytics company.
+
+Could this be the beginning of your own incredible journey?
+Connect with us on Messenger - https://m.me/numpyninjainc'''
+
+m3 = '''"Joining NumpyNinja was a turning point in my career. At a time when I was uncertain about job offers and training programs, I chose to invest in real learning rather than quick fixes. Balancing motherhood with classes, assignments, and late-night hackathons was challenging, but the experience was truly rewarding.
+
+Through this program, I gained not only technical skills but also an incredible support system of peers and mentors. The hands-on projects, teamwork, and adrenaline-filled hackathons gave me the confidence to step into the job market fully prepared.
+
+Job hunting is tough, but trust the process-your time will come! Grateful to NumpyNinja and the amazing mentors for making this journey so impactful."
+
+                              -----Saranya M
+
+Another Numpy Ninja success story-transforming career breaks into amazing comebacks!
+
+Why wait? Your success is just one step away!
+Connect with us on Messenger - https://m.me/numpyninjainc'''
  Connect with us on Messenger - https://m.me/numpyninjainc'''
 async def countdown_timer(seconds):
     for remaining in range(seconds, 0, -1):
