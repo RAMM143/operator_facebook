@@ -1,4 +1,4 @@
-#AIzaSyDI5Po0BIOY_0L5RA-vo2eKwI_K9C44SCY
+
 '''"I am truly overwhelmed by this recognition it's something I never expected, and I'm absolutely elated. NumpyNinja has been nothing short of a game-changer for me. It was the platform that gave me the confidence and tools to step back into the workforce with renewed energy and purpose.
 
 The NumpyNinja resume format was a revelation it transformed my resume, putting it in the spotlight and capturing the attention of recruiters like never before. The hands-on projects I worked on here not only honed my skills but also elevated my profile, opening doors to opportunities I once thought were out of reach.
