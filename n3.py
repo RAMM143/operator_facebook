@@ -1,50 +1,43 @@
+message = '''Want to get placed without faking a Single line in your Resume.
+Announcing our newest SDET(QA AUTOMATION)batch!
 
-'''"I am truly overwhelmed by this recognition it's something I never expected, and I'm absolutely elated. NumpyNinja has been nothing short of a game-changer for me. It was the platform that gave me the confidence and tools to step back into the workforce with renewed energy and purpose.
+Elevate your career with our highly acclaimed SDET (QA Automation) program. Previous batches have secured top positions at major IT and product companies globally, thanks to the real-world skills and knowledge gained through our training without faking a single line in their resume.
 
-The NumpyNinja resume format was a revelation it transformed my resume, putting it in the spotlight and capturing the attention of recruiters like never before. The hands-on projects I worked on here not only honed my skills but also elevated my profile, opening doors to opportunities I once thought were out of reach.
-What's truly remarkable is how NumpyNinja stays unwavering in its noble mission of being the most career-centric company for women. Being part of this journey has been an honor, and I'm incredibly proud to have contributed to such a transformative community. I promise to continue supporting and championing this mission in any way I can, because NumpyNinja isn't just a platform-it's a movement that changes lives."
+Why Choose Our Program?
+• Proven Success: Alumni have landed full-time roles without faking a single line in their resume.
+• High Demand: Employers highly value the practical, industry-relevant training we provide.
+Discover NumpyNinja
+Learn more about us and our offerings at www.numpyninja.com.
 
-                                    ------Nidhi A
+Try Us Out with a One-Week Trial Class
+Get a genuine feel for our program with a no-obligation, one-week trial class. See firsthand what sets us apart.
+Join the session
+When: Monday, February 24th at 8:30 P.M. EST
+Zoom Details:
+https://us06web.zoom.us/j/88954340500...
+Meeting ID: 889 5434 0500
+Passcode: 769959
 
-A NumpyNinja's success story: Landing a Product Manager role at one of the world's leading mobile service companies.
-Is this the moment that kickstarts your own inspiring journey?
-m1 = '''"Moving to the USA with a career gap left me feeling lost and unsure of my future. I lacked confidence and didn't know where to start. That's when my neighbor, a NumpyNinja member, introduced me to this incredible program -- and it changed everything.
+Our program is exclusively for women, creating a supportive and empowering learning environment.
 
-Through live projects, Jobathon, and hackathons, I gained real-world experience, industry skills, and the confidence to re-enter the workforce. The structured guidance made all the difference.
+Thank you, and we look forward to seeing you at the session!'''
+    m2 = '''Announcing newest trial session for DATA ANALYTICS.
+Previous batches were Placed full-time recently in Major IT Companies and Product companies in the world both in India and US without faking a single line in their Resume.
 
-Today, after a long break, I've successfully restarted my career-all thanks to NumpyNinja."
+Join the Session on Monday, February 24th at 9:30 P.M Eastern Standard Time.
+Please find the zoom meeting detail
+https://us06web.zoom.us/j/88954340500...
+Meeting ID: 889 5434 0500
+Passcode: 769959
 
-                                       -----Shruthi C
+In this course, you will work alongside doctors and medical professionals in tackling some of the most challenging Healthcare projects.
 
-This is the success story of NumpyNinja who successfully overcame a career break through our program and secured a position at one of the largest dental insurance companies.
-If you're feeling stuck, take that first step. Success will follow!
-Connect with us on Messenger - https://m.me/numpyninjainc'''
+All projects are live. Check us out on what we do at www.numpyninja.com
+Try One Week trial classes and see if this is for you.
+No obligations to join the batch.
 
-m2 = '''"Restarting my career after a 9-year gap seemed daunting, but NumpyNinja changed everything.
-
-The Jobathon at Numpy Ninja was a turning point—it gave me real-world experience, sharpened my technical skills, and boosted my confidence. The hands-on projects and interview-focused training played a crucial role in helping me secure a position in a top IT company.
-
-If you trust the process at NumpyNinja, the sky is the limit to what you can achieve!"
-                                     -----Anandhi K
-
-This is the success story of NumpyNinja who has excelled through our program and secured a position at a leading financial information and analytics company.
-
-Could this be the beginning of your own incredible journey?
-Connect with us on Messenger - https://m.me/numpyninjainc'''
-
-m3 = '''"Joining NumpyNinja was a turning point in my career. At a time when I was uncertain about job offers and training programs, I chose to invest in real learning rather than quick fixes. Balancing motherhood with classes, assignments, and late-night hackathons was challenging, but the experience was truly rewarding.
-
-Through this program, I gained not only technical skills but also an incredible support system of peers and mentors. The hands-on projects, teamwork, and adrenaline-filled hackathons gave me the confidence to step into the job market fully prepared.
-
-Job hunting is tough, but trust the process-your time will come! Grateful to NumpyNinja and the amazing mentors for making this journey so impactful."
-
-                              -----Saranya M
-
-Another Numpy Ninja success story-transforming career breaks into amazing comebacks!
-
-Why wait? Your success is just one step away!
-Connect with us on Messenger - https://m.me/numpyninjainc'''
- Connect with us on Messenger - https://m.me/numpyninjainc'''
+note: Our program is exclusively for Women.
+Thank You!'''
 async def countdown_timer(seconds):
     for remaining in range(seconds, 0, -1):
         sys.stdout.write(f"\r⏳ Sleeping... {remaining // 60} min {remaining % 60} sec left ")
